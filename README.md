@@ -1,7 +1,7 @@
 # Logentries SDK for Xamarin.Android
 [![NuGet Badge](https://buildstats.info/nuget/Xamarin.Logentries.Android?includePreReleases=true)](https://www.nuget.org/packages/Xamarin.Logentries.Android/)
 
-This is a Xamarin iOS unified bindings for Logentries le_ios static library
+This is a Xamarin Android bindings for Logentries le_android static library
 [le_android](https://github.com/logentries/le_android)
 
 [Logentries for Android features](https://github.com/LogentriesCommunity/le_android#features):
