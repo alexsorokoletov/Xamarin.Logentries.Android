@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<!-- adjust namespaces -->
+	<attr path="/api/package[@name='com.logentries.logger']" name="managedName">Logentries.Android</attr>
+	<attr path="/api/package[@name='com.logentries.misc']" name="managedName">Logentries.Android</attr>
+	<attr path="/api/package[@name='com.logentries.net']" name="managedName">Logentries.Android</attr>
+	<attr path="/api/package[@name='com.logentries']" name="managedName">Logentries.Android</attr>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>4.1.0</version>
+    <authors>dreamteammobile</authors>
+    <owners>dreamteammobile</owners>
+    <licenseUrl>https://github.com/alexsorokoletov/Xamarin.Logentries.Android/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/alexsorokoletov/Xamarin.Logentries.Android</projectUrl>
+    <id>Xamarin.Logentries.Android</id>
+    <title>Xamarin.Android SDK for Logentries</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.iOS Android for Logentries based on Android Logentries library https://github.com/LogentriesCommunity/le_android </description>
+    <summary>Logentries logger for Xamarin.Android </summary>
+    <copyright>Copyright  © 2017</copyright>
+    <tags>xamarin android logentries le_android logging loggly</tags>
+  </metadata>
+  <files>
+    <file src="Xamarin.Logentries.Android/bin/Release/*.dll" target="lib/MonoAndroid403" />
+  </files>
+</package>

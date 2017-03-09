@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Logentries.Android", "Xamarin.Logentries.Android\Xamarin.Logentries.Android.csproj", "{C6BD6A48-CC79-48CD-9A7C-E2BD5856F2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BD6A48-CC79-48CD-9A7C-E2BD5856F2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BD6A48-CC79-48CD-9A7C-E2BD5856F2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BD6A48-CC79-48CD-9A7C-E2BD5856F2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BD6A48-CC79-48CD-9A7C-E2BD5856F2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
